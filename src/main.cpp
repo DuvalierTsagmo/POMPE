@@ -1,8 +1,12 @@
 
-Titre : Conductiviter
-            Auteur : Duvalier Tsagmo
-                         Date : 16 /
-                     03 / 2022 Description : systeme detecter si il ya fuite d'eau Version : 0.0.1
+
+/*
+  Titre      : Titre du programme
+  Auteur     : Duvalier Tsagmo
+  Date       : 16/03/2022
+  Description: Une description du programme
+  Version    : 0.0.1
+*/
 
 #include <wifi101.h>
 #include "MQTTConnector.h"
@@ -11,7 +15,7 @@ Titre : Conductiviter
 #define pinDuRelai 6
 #define pinDePompe 5
 
-                                             const int delai = 1500;
+const int delai = 1500;
 
 bool StatutCapteur = 0;
 bool StatutpinDePompe = 0;
