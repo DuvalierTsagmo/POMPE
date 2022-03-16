@@ -19,5 +19,5 @@ Détails sur l'indentification de l'objet
 Cette information provient de l'objet virtuel créer sur le serveur Thingsbord
 */
 
-#define SECRET_TOKEN "8OWdySBUZw0gA7YEVHxl"
-#define SECRET_DEVICE_ID "a2a65730-89bc-11ec-9235-d318ce92df6e"
+#define SECRET_TOKEN "golyLwRUuFWEAE4ojNGV"
+#define SECRET_DEVICE_ID "6f8dc580-a533-11ec-9235-d318ce92df6e"
