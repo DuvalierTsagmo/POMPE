@@ -9,12 +9,12 @@
 */
 
 #include <Arduino.h>
-#include "WIFIConnector_MKR1010.h"
+#include "WIFIConnector_MKR1000.h"
 #include "MQTTConnector.h"
 
 void EtatDeLaPompe();
 
-const int RELAI = 1;
+const int RELAI = 6;
 const int PinSensor = 5;
 
 unsigned long Delai = 10000; // On envoie les données toutes les 10s
